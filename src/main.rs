@@ -22,5 +22,5 @@ fn main() {
     println!("Substraction: {}", number1 - number2);
     println!("Multiplication: {}", number1 * number2);
     println!("Divison (quotient): {}", number1 / number2);
-    println!("Divison (remainder): {}", number1 % number2)
+    println!("Divison (remainder): {}", number1 % number2);
 }
